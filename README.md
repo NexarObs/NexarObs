@@ -1,8 +1,8 @@
-# 👋 Hi, I'm NexarObs
+# 👋 Hi There
 
 ## 🛠️ Tech Stack
 
----
+
 
 ## 🎨 Frontend
 ![HTML](https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=html5&logoColor=white)
@@ -52,7 +52,7 @@
 ![Electron](https://img.shields.io/badge/Electron-2d2d2d?style=for-the-badge&logo=electron&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java_Swing-007396?style=for-the-badge&logo=java&logoColor=white)
 
-
+---
 
 ## 🔧 Other Tools
 ![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge&logo=git&logoColor=white)

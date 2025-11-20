@@ -1,3 +1,34 @@
-## Tech Stack (Starred Topics)
+# Hi There
+### Computer Science Student | Full-Stack Developer
 
-![NexarObs Starred Topics](assets/lowlighter_metrics.png)
+---
+
+## Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,mui" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=php,java,c,linux" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=NexarObs&show_icons=true&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexarObs&theme=tokyo-night" />
+</p>
+
+---
+
+## GitHub Metrics
+<p align="center">
+  <img src="https://github.com/NexarObs/NexarObs/blob/main/github-metrics.svg" />
+</p>

@@ -18,7 +18,7 @@ jobs:
 
       - name: Generate Lowlighter Metrics image
         run: |
-          curl -s https://lowlighter.vercel.app/api/stars/NexarObs?border=true -o assets/lowlighter_metrics.png
+          curl -s https://lowlighter.vercel.app/api/stars/NexarObs?border=true -o assets/lowlighter_metrics.svg
 
       - name: Update README
         run: |

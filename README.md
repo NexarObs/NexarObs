@@ -9,7 +9,6 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
   <img src="https://skillicons.dev/icons?i=php,java,c,linux" />
-  <img src="https://skillicons.dev/icons?i=python,matplotlib,electron,java_swing,pandas,markdown,git" />
 </p>
 
 ---

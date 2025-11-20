@@ -19,11 +19,11 @@ jobs:
 
       - name: Update README
         run: |
-          if grep -q "NexarObs Starred Topics" README.md; then
-            sed -i 's|!\[NexarObs Starred Topics\](.*)|![NexarObs Starred Topics](assets/lowlighter_metrics.png)|' README.md
-          else
-            echo "\n## Tech Stack (Starred Topics)\n\n![NexarObs Starred Topics](assets/lowlighter_metrics.png)" >> README.md
-          fi
+         if grep -q "NexarObs Starred Topics" README.md; then
+         sed -i 's|!\[NexarObs Starred Topics\](.*)|![NexarObs Starred Topics](github-metrics.svg)|' README.md
+         else
+          echo "\n## Tech Stack (Starred Topics)\n\n![NexarObs Starred Topics](github-metrics.svg)" >> README.md
+         fi
 
       - name: Commit and push changes
         run: |

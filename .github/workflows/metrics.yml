@@ -16,9 +16,9 @@ jobs:
       - name: Create assets folder
         run: mkdir -p assets
 
-      - name: Generate Lowlighter Metrics image
+      - name: Generate Lowlighter Metrics svg
         run: |
-          curl -s https://lowlighter.vercel.app/api/stars/NexarObs?border=true -o assets/lowlighter_metrics.svg
+          curl -s https://lowlighter.vercel.app/api/stars/NexarObs?border=true -o github-metrics.svg
 
       - name: Update README
         run: |

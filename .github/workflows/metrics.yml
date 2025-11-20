@@ -13,9 +13,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Create assets folder
-        run: mkdir -p assets
-
       - name: Generate Lowlighter Metrics svg
         run: |
           curl -s https://lowlighter.vercel.app/api/stars/NexarObs?border=true -o github-metrics.svg

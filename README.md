@@ -26,3 +26,9 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexarObs&theme=tokyo-night" />
 </p>
+
+## GitHub Metrics
+<p align="center">
+  <img src="https://github.com/NexarObs/NexarObs/raw/main/github-metrics.svg" />
+</p>
+

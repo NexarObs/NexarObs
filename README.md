@@ -7,9 +7,9 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,mui" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,sql" />
   <img src="https://skillicons.dev/icons?i=php,java,c,linux" />
-  <img src="https://skillicons.dev/icons?i=python,electron,markdown,git,sequilize" />
+  <img src="https://skillicons.dev/icons?i=python,electron,markdown,git," />
 </p>
 
 ---

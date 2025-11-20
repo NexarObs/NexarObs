@@ -5,7 +5,11 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,mui,nodejs,express,prisma,postgres,mongodb,php,java,c,linux,python,matplotlib,electron,java_swing,pandas,markdown,git" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,mui" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=php,java,c,linux" />
+  <img src="https://skillicons.dev/icons?i=python,matplotlib,electron,java_swing,pandas,markdown,git" />
 </p>
 
 ---

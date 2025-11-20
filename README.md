@@ -30,5 +30,7 @@
 
 ## GitHub Metrics
 <p align="center">
-  <img src="https://github.com/NexarObs/NexarObs/blob/main/github-metrics.svg" />
+  <img src="https://github.com/NexarObs/NexarObs/raw/main/github-metrics.svg" />
 </p>
+
+

@@ -29,7 +29,7 @@
 
 ## GitHub Metrics
 <p align="center">
-  <img src="github-metrics.svg" width="100%" alt="Metrics" />
+  <img src="github-metrics.svg" alt="Metrics" />
 </p>
 
 

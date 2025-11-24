@@ -28,7 +28,7 @@
 </p>
 
 ## GitHub Metrics
-<p align="center" style="margin-bottom: 40px;">
+<p align="center">
   
   <img src="github-metrics.svg"  alt="Metrics" />
 </p>

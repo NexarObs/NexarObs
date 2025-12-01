@@ -1,6 +1,4 @@
 # Hi There
-### Computer Science Student | Full-Stack Developer
-
 ---
 
 ## Tech Stack

@@ -1,5 +1,4 @@
 # Hi There
----
 
 ## Tech Stack
 <p align="center">

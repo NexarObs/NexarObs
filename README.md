@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" />
   <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
   <img src="https://skillicons.dev/icons?i=php,java,c,linux" />
-  <img src="https://skillicons.dev/icons?i=python,electron,markdown,git,figma,postman,obsidian,anaconda" />
+  <img src="https://skillicons.dev/icons?i=python,electron,markdown,git,figma,postman,obsidian" />
 </p>
 
 ---

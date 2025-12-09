@@ -11,13 +11,12 @@
 
 ---
 
-## GitHub Stats
+<!-- Github Stats -->
 
-<p align="center">
+<!-- <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=NexarObs&show_icons=true&theme=tokyonight" />
 </p>
-
----
+ -->
 
 ## 📈 GitHub Activity Graph
 <p align="center">

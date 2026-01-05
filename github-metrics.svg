@@ -219,8 +219,8 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="430.152813696898" height="8" fill="#DA5B0B"/>
-                    <rect mask="url(#languages-bar)" x="430.152813696898" y="0" width="29.84718630310196" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="430.8536898645005" height="8" fill="#DA5B0B"/>
+                    <rect mask="url(#languages-bar)" x="430.8536898645005" y="0" width="29.146310135499498" height="8" fill="#f1e05a"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -232,7 +232,7 @@
                                 Jupyter Notebook
                             </div>
                             <small>
-                                <div>93.51%</div>
+                                <div>93.66%</div>
                             </small>
                         </div>
                     </section>
@@ -245,7 +245,7 @@
                                 JavaScript
                             </div>
                             <small>
-                                <div>6.49%</div>
+                                <div>6.34%</div>
                             </small>
                         </div>
                     </section>
@@ -253,7 +253,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 5 Jan 2026, 12:38:04  with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 5 Jan 2026, 13:38:19  with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>

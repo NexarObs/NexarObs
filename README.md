@@ -5,7 +5,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,mui" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,fastapi,firebase"/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-  <img src="https://skillicons.dev/icons?i=php,java,spring,c,linux" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,java,spring,c,linux" />
   <img src="https://skillicons.dev/icons?i=python,electron,markdown,git,figma,postman,obsidian,latex,github" />
 </p>
 

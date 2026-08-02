@@ -2,7 +2,7 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,nextjs,mui" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,react native,vite,nextjs,mui" />
   <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,fastapi,firebase"/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
   <img src="https://skillicons.dev/icons?i=php,java,spring,c,linux" />

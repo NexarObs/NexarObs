@@ -3,10 +3,10 @@
 ## Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,vite,nextjs,mui" />
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,fastapi,firebase,godot"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,fastapi,firebase,vercel,godot"/>
   <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
   <img src="https://skillicons.dev/icons?i=php,java,spring,c,linux" />
-  <img src="https://skillicons.dev/icons?i=python,electron,markdown,git,figma,latex,vercel,github" />
+  <img src="https://skillicons.dev/icons?i=python,electron,markdown,git,figma,latex,github" />
 </p>
 
 ---

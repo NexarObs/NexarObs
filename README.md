@@ -9,8 +9,6 @@
   <img src="https://skillicons.dev/icons?i=python,electron,markdown,git,figma,latex,github" />
 </p>
 
----
-
 <!-- Github Stats -->
 
 <!-- <p align="center">
@@ -18,10 +16,13 @@
 </p>
  -->
 
+<!--
 ##  GitHub Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NexarObs&theme=tokyo-night" />
 </p>
+
+-->
 
 ## GitHub Metrics
 <p align="center">

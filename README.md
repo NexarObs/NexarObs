@@ -24,6 +24,13 @@
 
 -->
 
+
+## GitHub Metrics
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nexarobs/nexarobs/main/github-metrics-habits.svg" alt="Daily Commit Activity Graph" />
+</p>
+
+
 ## GitHub Metrics
 <p align="center">
   <img src="github-metrics.svg" />

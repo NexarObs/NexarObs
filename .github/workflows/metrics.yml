@@ -1,27 +1,62 @@
 name: Metrics
+
 on:
   schedule:
-    - cron: "0 0 * * *"   # Daily at midnight UTC
+    - cron: "0 * * * *"
   workflow_dispatch:
-  push:
-    branches: ["master", "main"]
 
 jobs:
   github-metrics:
+    runs-on: ubuntu-latest
+
     permissions:
       contents: write
-    runs-on: ubuntu-latest
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      # 1. Main metrics
+      - name: Main metrics
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          user: NexarObs
           filename: github-metrics.svg
-          template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Africa/Algiers
           plugin_languages: yes
-          plugin_languages_colors: github
-          plugin_languages_limit: 8
-          plugin_languages_threshold: 0%
+          plugin_languages_ignored: html, css
           plugin_languages_details: percentage
+
+      # 2. Isometric commit calendar
+      - name: Isometric commit calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: github-metrics-isometric.svg
+          base: ""
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      # 3. Daily activity graph
+      - name: Generate Activity Graph
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: kasbadji
+          token: ${{ secrets.GITHUB_TOKEN }}
+          output_path: github-metrics-habits.svg
+          options: theme=react&area=true&hide_border=true&days=30
+
+      # 4. Commit generated SVG files
+      - name: Commit files
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+      
+          git add github-metrics.svg
+          git add github-metrics-isometric.svg
+          git add github-metrics-habits.svg
+      
+          git commit -m "Update GitHub metrics" || exit 0
+      
+          git pull --rebase origin main
+          git push

@@ -41,7 +41,7 @@ jobs:
       - name: Generate Activity Graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          username: kasbadji
+          username: nexarobs
           token: ${{ secrets.GITHUB_TOKEN }}
           output_path: github-metrics-habits.svg
           options: theme=react&area=true&hide_border=true&days=30
